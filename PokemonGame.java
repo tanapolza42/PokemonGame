@@ -20,9 +20,7 @@ public class PokemonGame extends JFrame{
         background.setLayout(null);
         c.add(background);
         pack();
-
-        //Botton NAME FILL
-        //JButton start = new JButton("START !!!");
+        
         start.setFont(new Font("Layiji MaHaNiYom V1.5 OT", Font.BOLD, 20));
         start.setBounds(500,700,300,90);
         
